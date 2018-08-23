@@ -1,0 +1,11 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.pyc
+*.pyo
+*.egg
+*.EGG
+*.egg-info
+*.EGG-INFO
